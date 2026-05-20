@@ -6,8 +6,8 @@
 
   The dashboard provides executives and business users with dynamic KPIs, trend analysis, customer segmentation, and product 
   performance tracking to support data-driven decision making.
-## 📌 Dashboard Pages
-#  🏠 Landing Page
+# 📌 Dashboard Pages
+##  🏠 Landing Page
    Interactive navigation page designed for smooth dashboard experience.
 
 # 📊 Overview
