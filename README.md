@@ -7,7 +7,7 @@
   The dashboard provides executives and business users with dynamic KPIs, trend analysis, customer segmentation, and product 
   performance tracking to support data-driven decision making.
 # 📌 Dashboard Pages
-##  🏠 Landing Page
+#  🏠 Landing Page
    Interactive navigation page designed for smooth dashboard experience.
 
 # 📊 Overview
@@ -52,3 +52,22 @@ Detailed product analytics including:
 # 🌍 Regional Ranking (In Progress)
 
     Regional and geographical sales performance comparison.
+
+  # ✨ Features
+ - Interactive slicers & filters
+ - Dynamic KPI cards
+ - Year-over-Year comparison
+ - Advanced DAX calculations
+ - Custom navigation menu
+ - Responsive dashboard design
+ - Data storytelling approach
+ - Category & segment analysis
+ - Trend and distribution analytics
+
+
+# 🛠️ Tools & Technologies
+  - Power BI
+  - DAX
+  - Power Query
+  - Data Modeling
+  - Excel Dataset
